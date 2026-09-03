@@ -1,0 +1,8 @@
+{
+  "name": "Remix Live Classroom Quiz",
+  "description": "Real-time interactive classroom quiz system with AI document parsing, live polls, slide presentation mode, leaderboard, Google Classroom grade sync, and offline support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
